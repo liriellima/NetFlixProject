@@ -1,4 +1,4 @@
-package br.edu.uniesp.api;
+package projetonetflix.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
